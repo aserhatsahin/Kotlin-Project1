@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrawlStarsInfoHub</string>
+    <string name="game_modes">Game Modes</string>
+    <string name="title">Brawl Stars APP</string>
+    <string name="brawlers_favorited">Favorited Brawlers\n</string>
+
+</resources>
